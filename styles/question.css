@@ -1,0 +1,17 @@
+.content{
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgba(64, 231, 64, 0.7);
+    padding: 20px 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.question{
+    border-top: green solid 2px;
+}
+li{
+    line-height: 30px;
+    border: greenyellow 1px solid;
+}
+li:hover{
+    background-color: greenyellow;
+}
